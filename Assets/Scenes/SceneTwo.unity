@@ -470,7 +470,7 @@ MonoBehaviour:
   speed: 0
   acceleration: {x: 0, y: 0, z: 0}
   force: {x: 0, y: 0, z: 0}
-  maxSpeed: 5
+  maxSpeed: 3
   maxForce: 10
   mass: 1
   seekEnabled: 1
